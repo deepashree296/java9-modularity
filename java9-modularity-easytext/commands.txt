@@ -1,0 +1,8 @@
+// compile 
+
+javac -d out --module-source-path src --module easytext
+
+
+// run 
+java --module-path out --module easytext/com.javamodularity.easytext.Main input.txt
+
