@@ -1,0 +1,3 @@
+Hello,
+
+I am easytext application. I analyzes complexities of test by applying different algorithms. Use me to find complexity and enjoy!
